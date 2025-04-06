@@ -1,5 +1,16 @@
 # Getting Started
 
+- FullStack TodoList App
+
+- Next.js
+- TailwindCSS
+- ShadCN-UI（zod ReactHookForm）
+- Zustand
+- Tanstack Query
+- Prisma
+- pgSQL(Neon)
+- FrondEnd Stack(prettier eslint-airbnb husky commitizen cz lint-staged tsconfig.json)
+
 First, run the development server:
 
     ```bash
@@ -17,10 +28,3 @@ First, run the development server:
     # or
     bun dev
     ```
-
-- Master branch -> Next14 React18
-- Develop branch -> Next15 React19
-
-- DarkMode
-- ShadCN-UI
-- FrondEnd Stack(prettier eslint-airbnb husky commitizen cz lint-staged tsconfig.json)
